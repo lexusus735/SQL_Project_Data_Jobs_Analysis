@@ -47,6 +47,7 @@ The dataset comes courtesy of [Luke Barousse's SQL course,](https://lukebarousse
 ![Most Optimal skills to learn](/SQL_Project_Data_Jobs_Analysis/graphs/optimal_skills_learn.png)
 
 5. Which skills are most valuable for remote data engineering roles?
+
 ![Most valuable skills for remote data engineering](/SQL_Project_Data_Jobs_Analysis/graphs/remote_skills.png)
 
 # Key Learnings
