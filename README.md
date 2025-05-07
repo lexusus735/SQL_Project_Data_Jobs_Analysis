@@ -38,7 +38,7 @@ The dataset comes courtesy of [Luke Barousse's SQL course,](https://lukebarousse
 ![Top paying Data engineering jobs](/SQL_Project_Data_Jobs_Analysis/graphs/top_10_paying_job_EU.png)
 
 2. Which skills are most commonly required in the highest-paying data engineering jobs?
-![Most required skills in the top EU](/SQL_Project_Data_Jobs_Analysis/graphs/top_demanding%20skills%20in%20eu.png)
+![Most required skills in the top EU](/SQL_Project_Data_Jobs_Analysis/graphs/top_demand_skills.png)
 
 3. Which skills are most in demand in these roles?
 ![Most in demand Data engineering skills](/SQL_Project_Data_Jobs_Analysis/graphs/top_demand_skills.png)
@@ -69,3 +69,6 @@ This project provided a structured look into the world of data engineering caree
 
 
 
+
+
+[def]: /SQL_Project_Data_Jobs_Analysis/graphs/remote_skills.png
