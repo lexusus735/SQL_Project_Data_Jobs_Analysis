@@ -35,19 +35,19 @@ The dataset comes courtesy of [Luke Barousse's SQL course,](https://lukebarousse
 # Analysis Overview
 
 1. What are the top-paying data engineering jobs?
-![Top paying Data engineering jobs](/graphs/top_10_paying_job_EU.png)
+![Top paying Data engineering jobs](/SQL_Project_Data_Jobs_Analysis/graphs/top_10_paying_job_EU.png)
 
 2. Which skills are most commonly required in the highest-paying data engineering jobs?
-![Most required skills in the top EU](/graphs/top_demanding%20skills%20in%20eu.png)
+![Most required skills in the top EU](/SQL_Project_Data_Jobs_Analysis/graphs/top_demanding%20skills%20in%20eu.png)
 
-2. Which skills are most in demand in these roles?
-![Most in demand Data engineering skills](/graphs/top_demand_skills.png)
+3. Which skills are most in demand in these roles?
+![Most in demand Data engineering skills](/SQL_Project_Data_Jobs_Analysis/graphs/top_demand_skills.png)
 
-3. Which skills offer the best ROI — high salary and high demand?
-![Most Optimal skills to learn](/graphs/optimal_skills_learn.png)
+4. Which skills offer the best ROI — high salary and high demand?
+![Most Optimal skills to learn](/SQL_Project_Data_Jobs_Analysis/graphs/optimal_skills_learn.png)
 
-4. Which skills are most valuable for remote data engineering roles?
-![Most valuable skills for remote data engineering](/graphs/remote_skills.png)
+5. Which skills are most valuable for remote data engineering roles?
+![Most valuable skills for remote data engineering](/SQL_Project_Data_Jobs_Analysis/graphs/remote_skills.png)
 
 # Key Learnings
 - The job market rewards engineers who combine cloud platforms (AWS, Azure) with modern data tools like Databricks, Kafka, and Spark.
