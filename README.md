@@ -1,6 +1,9 @@
 # Introduction
 
-This project dives deep into the data engineering job market, uncovering insights about top-paying roles and the most valuable skills. From SQL-powered querying to clean Python visualizations, the goal is to help job seekers identify high-paying, in-demand, and optimal skills — where demand meets compensation.
+Dive into the data job market! Focusing on data analyst roles, this project explores:
+* Top-paying jobs
+* In-demand skills
+* Optimal skills: where high demand meets high salary in data analytics.
 
 Explore the queries behind the analysis: [project_sql folder](/project_sql/)
 
