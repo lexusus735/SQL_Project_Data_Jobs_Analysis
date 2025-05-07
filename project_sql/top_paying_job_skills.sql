@@ -11,8 +11,14 @@ WITH top_paying_jobs AS(
     LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
     WHERE
         job_title_short = 'Data Engineer' AND
-        job_location = 'Anywhere' AND
-        salary_year_avg IS NOT NULL
+        salary_year_avg IS NOT NULL AND 
+        job_country IN (
+    'Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus',
+    'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France',
+    'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia',
+    'Lithuania', 'Luxembourg', 'Malta', 'Netherlands', 'Poland',
+    'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden'
+)
     ORDER BY
             salary_year_avg DESC
     LIMIT 10
