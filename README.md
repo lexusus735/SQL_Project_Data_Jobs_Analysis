@@ -21,8 +21,6 @@ The dataset comes courtesy of [Luke Barousse's SQL course,](https://lukebarousse
 2. Which skills are most commonly required in the highest-paying data engineering jobs?
 3. Which skills are most in demand in these roles?
 4. Which skills offer the best ROI — high salary and high demand?
-5. Which skills are most valuable for remote data engineering roles?
-
 # Tools & Technologies
 |                 Tool                 |                     Purpose                    |
 |:------------------------------------:|:----------------------------------------------:|
@@ -35,20 +33,16 @@ The dataset comes courtesy of [Luke Barousse's SQL course,](https://lukebarousse
 # Analysis Overview
 
 1. What are the top-paying data engineering jobs?
-![Top paying Data engineering jobs](/SQL_Project_Data_Jobs_Analysis/graphs/top_10_paying_job_EU.png)
+![top_10_paying_job_EU](https://github.com/user-attachments/assets/ca7e8dbf-249f-46f0-b53b-7afec27d614f)
 
 2. Which skills are most commonly required in the highest-paying data engineering jobs?
-![Most required skills in the top EU](/SQL_Project_Data_Jobs_Analysis/graphs/top_demand_skills.png)
+![top_demanding skills in eu](https://github.com/user-attachments/assets/defda578-6470-4a3c-a604-a12de3ed27a3)
 
 3. Which skills are most in demand in these roles?
-![Most in demand Data engineering skills](/SQL_Project_Data_Jobs_Analysis/graphs/top_demand_skills.png)
+![top_demand_skills](https://github.com/user-attachments/assets/67813639-18d7-4843-84c6-df4066aaa2a1)
 
 4. Which skills offer the best ROI — high salary and high demand?
-![Most Optimal skills to learn](/SQL_Project_Data_Jobs_Analysis/graphs/optimal_skills_learn.png)
-
-5. Which skills are most valuable for remote data engineering roles?
-
-![Most valuable skills for remote data engineering](/SQL_Project_Data_Jobs_Analysis/graphs/remote_skills.png)
+![optimal_skills_learn](https://github.com/user-attachments/assets/b6570e13-71b1-4415-b1b9-7a8442472fab)
 
 # Key Learnings
 - The job market rewards engineers who combine cloud platforms (AWS, Azure) with modern data tools like Databricks, Kafka, and Spark.
